@@ -1,1 +1,1 @@
-# thermal_I2I
+# A Project for Thermal Image Generation Using GANs
