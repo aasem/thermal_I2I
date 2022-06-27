@@ -1,1 +1,1 @@
-# A Project for Thermal Image Generation Using GANs
+# A Research on Thermal Image Generation Using Generative Frameworks
